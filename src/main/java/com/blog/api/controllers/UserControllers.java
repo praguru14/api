@@ -25,4 +25,6 @@ public class UserControllers {
 
     //PUT mapping
 
+    //DELETE mapping
+
 }
